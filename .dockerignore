@@ -1,0 +1,23 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+README.md
+*.md
+
+# Old versions
+looney-tunes-calculator.html
+looney-workspace.html
+
+# Development
+node_modules
+npm-debug.log
+.DS_Store
+.vscode
+.idea
+
+# Misc
+*.log
+.env
+.env.*

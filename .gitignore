@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
+
+# Old files
+looney-tunes-calculator.html
+looney-workspace.html
+untitled folder/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
